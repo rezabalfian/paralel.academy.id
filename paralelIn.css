@@ -42,10 +42,13 @@
       width: 100%;
     }
     
-    .google .apple {
+    .google {
       margin-bottom: 10px;
     }
-    
+      
+    .apple {
+         margin-bottom: 10px;
+    }
     .lesson {
       width: 100%;
     }
